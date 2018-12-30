@@ -1,4 +1,4 @@
-# Mountain-Locater
+# Mountain-Locator
 This program locates and displays mountains of various countries.
 ## Steps
 1. Scrape wikipedia for region coordinates and the coordinates of the mountains that pertain to that region.
