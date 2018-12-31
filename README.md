@@ -1,7 +1,7 @@
 # Mountain-Locator
 This program locates and displays mountains of various countries.
 ## Steps
-1. Scrape wikipedia for region coordinates and the coordinates of the mountains that pertain to that region.
+1. Scrape web for region coordinates and the coordinates of the mountains that pertain to that region.
 2. Save all coordinates to a new csv file.
 3. Import data from csv file into a new database.
 4. Retrieve data from the newly created database and display it on a map.
