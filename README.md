@@ -15,7 +15,9 @@ This program locates and displays mountains of various countries.
 - [regex](https://docs.python.org/3/library/re.html) - String parser for coordinates.
 
 ## Acknowledgments
-Web source: [https://en.wikipedia.org/wiki/Main_Page](https://en.wikipedia.org/wiki/Main_Page)
+*Web sources*: 
+- [https://en.wikipedia.org/wiki/Main_Page](https://en.wikipedia.org/wiki/Category:Lists_of_mountains_by_country)
+- [https://www.nationmaster.com/](https://www.nationmaster.com/country-info/stats/Geography/Geographic-coordinates)
 
 # Status
 __INCOMPLETE__
