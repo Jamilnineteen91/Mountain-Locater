@@ -21,7 +21,8 @@ This program locates and displays mountains of various countries.
 
 # Status
 __INCOMPLETE__
-*Checklist*
+**Checklist**
+- [x] Re-structure project directory.
 - [ ] Fix country coord. parse.
 - [ ] re-code map coord. for the country coord.
 - [ ] Rename database table.
