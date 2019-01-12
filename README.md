@@ -1,5 +1,5 @@
 # Mountain-Locator
-This program locates and displays mountains of various countries.
+This program locates and displays mountains of various countries and is written in python.
 ## Steps
 1. Scrape web for region coordinates and the coordinates of the mountains that pertain to that region.
 2. Save all coordinates to a new csv file.
