@@ -1,5 +1,6 @@
 # Mountain-Locator
-This program locates and displays mountains of various countries and is written in python.
+This program locates and displays mountains of various countries and is written in python. The purpose of this project was to gain knowledge on web scrapping, as well as reading & writing files and databases.
+
 ## Steps
 1. Scrape web for region coordinates and the coordinates of the mountains that pertain to that region.
 2. Save all coordinates to a new csv file.
@@ -29,4 +30,10 @@ __INCOMPLETE__
 - [ ] Rename database table.
 - [ ] Re-structure code to imcorporate new country queries.
 
+## What I learned
+
+- Project management steps (initializing, planning, execution, performance control, and closing the project)
+- How to read & write files 
+- How to read & write databases in python
+- How to web-scrape
 
