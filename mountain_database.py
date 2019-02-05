@@ -6,8 +6,8 @@ import sqlite3
 conn= sqlite3.connect('Albanian_mountains.db')
 cur=conn.cursor()
 
-#Creates Database (code is commented out to avoid multiple table creations)
-cur.execute("""CREATE TABLE Albanian_mountains(
+#Creates Database
+cur.execute("""CREATE TABLE IF NOT EXISTS Albanian_mountains(
             name text,
             latitude FLOAT,
             longitude FLOAT
